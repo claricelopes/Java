@@ -23,6 +23,3 @@ Os exercícios podem abordar temas como:
 
 ## Observação
 Este repositório tem fins acadêmicos e de aprendizado.
-1. Clone o repositório:
-```bash
-git clone <url-do-repositorio>
